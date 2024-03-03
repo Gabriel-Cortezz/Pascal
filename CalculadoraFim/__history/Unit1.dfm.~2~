@@ -1,0 +1,81 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 371
+  ClientWidth = 528
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -16
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 21
+  object Label1: TLabel
+    Left = 64
+    Top = 32
+    Width = 187
+    Height = 21
+    Caption = 'Coloquei Numeros Inteiros'
+  end
+  object Label2: TLabel
+    Left = 112
+    Top = 233
+    Width = 69
+    Height = 21
+    Caption = 'Resultado'
+  end
+  object Button1: TButton
+    Left = 352
+    Top = 40
+    Width = 105
+    Height = 41
+    Caption = '+'
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 352
+    Top = 224
+    Width = 105
+    Height = 41
+    Caption = '/'
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 352
+    Top = 105
+    Width = 105
+    Height = 41
+    Caption = '-'
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 352
+    Top = 169
+    Width = 105
+    Height = 41
+    Caption = 'X'
+    TabOrder = 3
+  end
+  object iValorA: TEdit
+    Left = 96
+    Top = 88
+    Width = 121
+    Height = 29
+    TabOrder = 4
+  end
+  object iValorB: TEdit
+    Left = 96
+    Top = 169
+    Width = 121
+    Height = 29
+    TabOrder = 5
+  end
+  object ResultadoFinal: TEdit
+    Left = 96
+    Top = 273
+    Width = 121
+    Height = 29
+    TabOrder = 6
+  end
+end
