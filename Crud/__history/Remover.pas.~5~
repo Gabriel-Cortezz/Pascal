@@ -1,0 +1,43 @@
+unit Remover;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TExcluir = class(TForm)
+    Label1: TLabel;
+    btnConfimarExclui: TButton;
+    btnCancelarExclui: TButton;
+    CaixaComfuncionaioExcluir: TEdit;
+    procedure btnCancelarExcluiClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+
+  end;
+
+var
+  Excluir: TExcluir;
+
+implementation
+
+{$R *.dfm}
+
+procedure TExcluir.btnCancelarExcluiClick(Sender: TObject);
+begin
+  close;
+end;
+
+
+
+
+//function MostrarNome(sNome : String) : string;
+//begin
+//  CaixaComfuncionaioExcluir.text := dados do usuario
+//end;
+
+end.

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/03/03 20:33:08.651,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/03 20:33:45.169,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Unit1.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/03 20:33:45.169,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Unit1.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/03/03 20:34:39.420,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 20:34:54.327,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Unit2.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/03/03 20:34:54.327,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Unit2.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 20:40:25.036,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Criar.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 20:40:25.036,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Criar.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Unit2.dfm</Transaction>
+    <Transaction>2024/03/03 20:40:36.179,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Principal.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Unit1.pas</Transaction>
+    <Transaction>2024/03/03 20:40:36.179,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Principal.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Unit1.dfm</Transaction>
+    <Transaction>2024/03/03 20:53:57.423,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 20:55:37.363,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Unit2.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 20:55:37.363,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Unit2.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/03/03 20:55:43.849,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Unit2.pas=</Transaction>
+    <Transaction>2024/03/03 20:55:57.018,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 20:56:27.302,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Editar.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 20:56:27.302,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Editar.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/03/03 21:01:04.230,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 21:02:10.056,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Remover.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/03/03 21:02:10.056,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Remover.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/03/03 21:14:54.482,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Project1.dproj=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/03/03 22:24:26.398,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Project1.dproj=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Crud\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
