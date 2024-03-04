@@ -1,0 +1,16 @@
+Name:CRUDDelphi
+
+Provider:Amazon Web Services
+Region:SA-East-1 (Sao Paulo)
+Tags:BD
+
+kesavan.db.elephantsql.com (kesavan-01)
+Region	amazon-web-services::sa-east-1
+Created at	2024-03-03 20:44 UTC+00:00
+User & Default database	: sqrrjhwo
+Password	
+ixfNvP_MFbFWOM8jdqVp5OkAJc4Qf7aE
+ 
+URL	postgres://sqrrjhwo:***@kesavan.db.elephantsql.com/sqrrjhwo  
+Current database size	
+Max database size	20 MB
